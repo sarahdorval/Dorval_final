@@ -1,0 +1,28 @@
+/*This is the CSS page for our final Bootstrap template.*/
+
+.dek {
+	font-style: italic;
+	font-family: 'Poppins', sans-serif;
+}
+.byline {
+	font-family: Georgia, serif;
+}
+.section {
+	text-align: left;
+}
+img {
+	border: 2px solid maroon;
+}
+.accordion-button:not(.collapsed), .accordion-button:focus {
+	font-family: Georgia, serif;
+	background-color: maroon;
+	color: darkgray;
+	margin-bottom: 10px;
+}
+.footer p {
+	background-color: #cccccc;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 10px;
+	color: maroon;
+}
